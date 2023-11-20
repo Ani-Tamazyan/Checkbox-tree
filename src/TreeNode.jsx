@@ -22,5 +22,3 @@ function TreeNode({ label, children, onCheck, checked, indeterminate }) {
 
 export default TreeNode;
 
-
-
